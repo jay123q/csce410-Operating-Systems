@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "scheduler.C": "cpp",
+        "thread.C": "cpp",
+        "kernel.C": "cpp",
+        "frame_pool.C": "cpp",
+        "simple_timer.C": "cpp",
+        "console.C": "cpp",
+        "mem_pool.C": "cpp",
+        "simple_keyboard.C": "cpp",
+        "machine.C": "cpp",
+        "interrupts.C": "cpp",
+        "assert.C": "cpp",
+        "exceptions.C": "cpp",
+        "gdt.C": "cpp",
+        "idt.C": "cpp",
+        "irq.C": "cpp",
+        "utils.C": "cpp"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "thread.C": "cpp",
+        "simple_disk.C": "cpp",
+        "console.C": "cpp",
+        "blocking_disk.C": "cpp",
+        "MirroredDisk.C": "cpp",
+        "kernel.C": "cpp",
+        "assert.C": "cpp",
+        "exceptions.C": "cpp",
+        "frame_pool.C": "cpp",
+        "gdt.C": "cpp",
+        "idt.C": "cpp",
+        "interrupts.C": "cpp",
+        "irq.C": "cpp",
+        "machine.C": "cpp",
+        "mem_pool.C": "cpp",
+        "simple_keyboard.C": "cpp",
+        "simple_timer.C": "cpp",
+        "utils.C": "cpp",
+        "scheduler.C": "cpp",
+        "blocking_disk copy.C": "cpp",
+        "task1_blocking_disk.C": "cpp"
+    }
+}

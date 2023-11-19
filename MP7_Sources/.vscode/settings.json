@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "file_system.C": "cpp",
+        "file.C": "cpp",
+        "frame_pool.C": "cpp",
+        "kernel.C": "cpp",
+        "simple_disk.C": "cpp",
+        "console.C": "cpp",
+        "mem_pool.C": "cpp",
+        "simple_timer.C": "cpp"
+    }
+}

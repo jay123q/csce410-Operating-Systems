@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "page_table.C": "cpp",
+        "console.C": "cpp",
+        "assert.C": "cpp",
+        "gdt.C": "cpp",
+        "simple_keyboard.C": "cpp",
+        "vm_pool.C": "cpp",
+        "utils.C": "cpp",
+        "simple_timer.C": "cpp",
+        "machine.C": "cpp",
+        "cont_frame_pool.C": "cpp",
+        "idt.C": "cpp",
+        "kernel.C": "cpp"
+    }
+}
